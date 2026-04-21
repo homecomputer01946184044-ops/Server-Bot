@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "Server00",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
-    "ip": "razorbattle841.mcsh.io",
-    "port": 25565,
+    "ip": "",
+    "port": ,
     "version": "",
     "try-creative": false
   },
